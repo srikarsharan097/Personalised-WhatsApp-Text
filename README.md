@@ -20,5 +20,4 @@ This is a Python script that sends personalized WhatsApp messages to multiple co
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/whatsapp-messaging-app.git
-   cd whatsapp-messaging-app
+   git clone https://github.com/srikarsharan097/Personalised-WhatsApp-Text/
